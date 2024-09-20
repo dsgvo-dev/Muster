@@ -1,2 +1,2 @@
-# muster
+# Muster
 Datenschutz Muster
